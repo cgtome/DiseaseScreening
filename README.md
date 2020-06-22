@@ -1,5 +1,5 @@
-# DiseaseScreening
-Pega Hackathon 2020
+# Disease Screening
+Pega Community Hackathon 2020
 
 Files included:
 1- Disease Screening.pdf: Descriptive document of the implemented solution.
